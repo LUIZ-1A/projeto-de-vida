@@ -104,3 +104,7 @@ border-radius: 40px 0 0 0;
 border-radius: 0 40px 0 0;
 }
 }
+.contador {
+  display: flex;
+  justify-content: center;
+}
